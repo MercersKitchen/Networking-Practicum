@@ -18,6 +18,10 @@ Students Must ...
 - Complete HCS 3000, See Mr. Mercer for details
 - Bring a Steel Toed pair of work boots (see Walmart and other retailers)
 
+Credits
+- One of ... (Depending on Grade Level)
+  - NET 2950: NET Intermediate Practicum
+  - NET 3950: NET Advanced Practicum
 ---
 
 # Calendar of Practicum Opportunities
