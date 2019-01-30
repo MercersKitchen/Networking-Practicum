@@ -2,6 +2,8 @@
 Networking Practicum for Campus EPSB and Computer Pathways
 
 **Fun Fact**: This practicum is the first of it's kind in all of Edmonton Public History
+**Possible Because of ...**
+- Alberta Computers for Schools, especially Dave Fladager (Student Supervisor) and Richard Leung
 
 Purpose: provide students access to industry-level work experience and feedback
 
