@@ -11,7 +11,8 @@ Purpose: provide students access to industry-level work experience and feedback
 
 Table of Contents
 - Current Year Calendar of Opportunities, with Student Sign up ... <a href="">Click Here</a>
-- What does Alberta Computers for Schools look like ... <a href="">Click Here for an Answer</a>
+- What does Alberta Computers for Schools look like inside ... <a href="">Click Here for an Answer</a>
+- Travelling to Alberta Computers For Schools ... <a href="">Click Here for landmark images</a>
 - Field Trip Form and Other Documents, <a href="">Click Here</a>
 
 Students Must ...
@@ -48,7 +49,7 @@ Reminders about Getting to Alberta Computers For Schools
 - Start time is 8 AM, Gate is Unlocked at 7:30 (do not arrive before 7:30 AM)
   - Note: plan arrival with supervisor, or Mr. Mercer, if bus schedule does not accommodate 7:30 gate opening and 8:00 start time ()
 - Students are responsible for their own transportation
-- "Bus stops at 50th Street and then 11 minute walk through Industrial Park" - Female Intern at Computers for Schools
+- "Bus stops at 50th Street and then 11 minute walk through Industrial Park" - Female Intern at Alberta Computers For Schools
 - Remember to walk on the side of the road
 - See the images
 
@@ -57,8 +58,8 @@ Reminders about Getting to Alberta Computers For Schools
 
 # To Include
 
-PowerPoint of Computer for Schools Images
+PowerPoint of Alberta Computers For Schools Images
 
-Modified Images to include in "CfS Is"
+Modified Images to include in "ACfS Location"
 
 ---
