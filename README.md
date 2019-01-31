@@ -26,7 +26,7 @@ Credits
 
 # Calendar of Practicum Opportunities
 
-Note: weekly practicum depends on work available and other details communicated by Computer for School's Supervisors
+Note: weekly practicum depends on work available and other details communicated by Alberta Computers For Schools' Supervisors
 
 Tentative Dates
 - March 4 - 8, 2019: "Being a Campus EPSB Ambassador, ready for work"
@@ -43,7 +43,7 @@ Tentative Dates
 
 ### Notes to Incorporate
 
-Reminders about Getting to Computers for Schools
+Reminders about Getting to Alberta Computers For Schools
 - Google Maps <a href="https://www.google.com/maps/dir/Queen+Elizabeth+School,+9425+132+Ave+NW,+Edmonton,+AB+T5E+0Y4/alberta+computers+for+schools/@53.5532357,-113.452594,13z/data=!3m1!4b1!4m13!4m12!1m5!1m1!1s0x53a0236577265d81:0x2aacfdc438e98ee2!2m2!1d-113.4881316!2d53.5914815!1m5!1m1!1s0x53a023fc140fc9ab:0x1612c35c832232af!2m2!1d-113.4102319!2d53.520873">from QE High School</a>
 - Start time is 8 AM, Gate is Unlocked at 7:30 (do not arrive before 7:30 AM)
   - Note: plan arrival with supervisor, or Mr. Mercer, if bus schedule does not accommodate 7:30 gate opening and 8:00 start time ()
