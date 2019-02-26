@@ -63,3 +63,21 @@ PowerPoint of Alberta Computers For Schools Images
 Modified Images to include in "ACfS Location"
 
 ---
+
+Ideas for Alternate Experience
+- Guest Speaker, FLEX & Period 1, promote as technical and linked (i.e. technical writer, "what to do with an English-writing passion" while able to talk with developers)
+  - Ask for Matt's cheat sheet for meet-up events in Edmonton
+- Field Trip Day in May or June (details TBA)
+- Student Shadow Day, "A Day in the Life"
+- Alternate Networking Practicum, Introduction Course with follow-up presentation and articulation, summation with resume|portfolio building, online resume
+- General Mentoring of Students (details TBA)
+- Summer Apprenticeships (details TBA)
+
+Paula to follow-up with emailed proposal, ~March 6
+Explore
+- HackerNest
+  - https://www.meetup.com/HackerNestEDM/
+  - https://www.hackernest.com/
+- https://nimbleprogrammer.com/
+
+---
