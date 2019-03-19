@@ -23,6 +23,9 @@ Credits
 - One of ... (Depending on Grade Level)
   - NET 2950: NET Intermediate Practicum
   - NET 3950: NET Advanced Practicum
+
+Field Trip form from Mercer's Kitchen, <a href="https://docs.google.com/document/d/1RbfFRo9_VnEDNTQA2fnrWROZ7NlELEiewQFY8qWkbug/edit#heading=h.gjdgxs">2019 Version</a>
+
 ---
 
 # Calendar of Practicum Opportunities
