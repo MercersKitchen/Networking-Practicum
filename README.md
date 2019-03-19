@@ -18,13 +18,16 @@ Table of Contents
 Students Must ...
 - Complete HCS 3000, See Mr. Mercer for details
 - Bring a Steel Toed pair of work boots (see Walmart and other retailers)
+- See: <a href="https://docs.google.com/document/d/18YsjGPuTiwOqYvr-_cPWc8QZwz1dsc8kF1SU9UMOOBY/edit">Hyperlinks for HCS 3000</a>
 
 Credits
 - One of ... (Depending on Grade Level)
   - NET 2950: NET Intermediate Practicum
   - NET 3950: NET Advanced Practicum
 
-Field Trip form from Mercer's Kitchen, <a href="https://docs.google.com/document/d/1RbfFRo9_VnEDNTQA2fnrWROZ7NlELEiewQFY8qWkbug/edit#heading=h.gjdgxs">2019 Version</a>
+Field Trip form from Mercer's Kitchen, <a href="https://drive.google.com/drive/folders/1tGkdQxe70hmjIGnzpDnrEluSLTecXAa-">2019 Version</a>
+
+Other Mercer's Kitchen Files for this <a href="https://drive.google.com/drive/folders/11nQuIFkx8B0kv1Cw1ZJG4oDsWE_t5vNQ">Practicum Experience</a>, see Mr. Mercer
 
 ---
 
