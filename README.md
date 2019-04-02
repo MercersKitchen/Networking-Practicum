@@ -17,7 +17,7 @@ Table of Contents
 
 Students Must ...
 - Complete HCS 3000, See Mr. Mercer for details
-- Bring a Steel Toed pair of work boots (see Walmart and other retailers)
+- Bring a Steel Toed pair of work boots or shoes (see Walmart and other retailers)
 - See: <a href="https://docs.google.com/document/d/18YsjGPuTiwOqYvr-_cPWc8QZwz1dsc8kF1SU9UMOOBY/edit">Hyperlinks for HCS 3000</a>
 
 Credits
