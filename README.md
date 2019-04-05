@@ -38,7 +38,7 @@ Note: weekly practicum depends on work available and other details communicated 
 Tentative Dates
 - March 4 - 8, 2019: "Being a Campus EPSB Ambassador, ready for work" ()
 - April 2 - 5, 2019: (Immediately following Spring Break, gives Monday to be at QE for reminders and questions) (Ralph)
-- April 8 - 12, 2019: (Jared)
+- April 9 - 12, 2019: (Jared)
 - April 15 - 18, 2019: Unique tasks available ()
 - May 6 - 10, 2019: Skills Alberta Canada Set-up ()
 - May 13 - 17, 2019: Skills Alberta Canada Clean-up ()
