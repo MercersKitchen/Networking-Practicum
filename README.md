@@ -42,7 +42,7 @@ Tentative Dates
 - April 15 - 18, 2019: Unique tasks available ()
 - May 6 - 10, 2019: Skills Alberta Canada Set-up ()
 - May 13 - 17, 2019: Skills Alberta Canada Clean-up ()
-- May 27 - 31, 2019: ()
+- May 27 - 31, 2019: (Dawson)
 - June 3 - 7, 2019: ()
 - June 10 - 14, 2019: ()
 
