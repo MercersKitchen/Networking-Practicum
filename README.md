@@ -87,3 +87,14 @@ Explore
 - https://nimbleprogrammer.com/
 
 ---
+
+Pilot about Practicums
+- https://www.careersnextgen.ca/
+- Janis Lawrence-Harper
+- CAREERS: The Next Generation
+- 780-713-1362
+- Jlawrence-harper@nextgen.org
+
+Will get back to me about progress
+
+---
