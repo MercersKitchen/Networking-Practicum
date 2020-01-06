@@ -68,6 +68,9 @@ PowerPoint of Alberta Computers For Schools Images
 
 Modified Images to include in "ACfS Location"
 
+New Possible Practicum with CX (pilot year)
+- Possible Articulation from CX
+
 ---
 
 Ideas for Alternate Experience
