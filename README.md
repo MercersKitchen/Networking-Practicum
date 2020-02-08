@@ -47,13 +47,13 @@ Tentative Dates
 - April 14:
 - April 20:
 - April 27:
-- [Optional] May 4 - 8: See Ralph or previously trained
-- May 19
-- May 26
-- June 1
-- June 8
-- June 15
-- June 22
+- [Optional] May 4 - 8 (Skills Alberta Canada Week): See Ralph or previously trained
+- May 19:
+- May 26:
+- June 1:
+- June 8:
+- June 15:
+- June 22:
 
 Additional Notes
 - Pilot year to support CfS during Skills, Must keep shop open
