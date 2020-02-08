@@ -32,10 +32,8 @@ Other Mercer's Kitchen Files for this <a href="https://drive.google.com/drive/fo
 ---
 
 # Job Description for this Practicum
-- Able to view this in GitHub
-  - See <a href="https://github.com/MercersKitchen/Networking-Practicum/blob/master/Job%20Description/Program%20Responsibilities.pdf">PDF Doc</a>
-- Able to download this through GitHub
-  - See <a href="https://github.com/MercersKitchen/Networking-Practicum/blob/master/Job%20Description/Program%20Responsibilities.docx">WORD Doc</a>
+- Able to view this in GitHub, <a href="https://github.com/MercersKitchen/Networking-Practicum/blob/master/Job%20Description/Program%20Responsibilities.pdf">PDF Doc</a>
+- Able to download this through GitHub, <a href="https://github.com/MercersKitchen/Networking-Practicum/blob/master/Job%20Description/Program%20Responsibilities.docx">WORD Doc</a>
 
 ---
 
